@@ -1,4 +1,4 @@
-# Projeto-POOA
+# Sistema Bibliotecário
 
 Repositório do sistema de biblioteca desenvolvido para a disciplina de Programação Orientada a Objetos Avançada da UFSCar.
 
