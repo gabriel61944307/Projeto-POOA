@@ -1,0 +1,3 @@
+module sistemaBibliotecario {
+	exports entidades;
+}
